@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WYWPodTest_Example' do
+  pod 'WYWPodTest', :path => '../'
+
+  target 'WYWPodTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
