@@ -1,0 +1,16 @@
+PODS:
+  - WYWPodTest (0.1.0)
+
+DEPENDENCIES:
+  - WYWPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  WYWPodTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WYWPodTest: 44ed4b2ebde4184724d6805a083f6ee9b6218b3a
+
+PODFILE CHECKSUM: c8c78ea1deec58aa5bcccd9499c007e861e50b32
+
+COCOAPODS: 1.2.0.beta.3

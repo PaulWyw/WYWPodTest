@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'WYWPodTest'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of WYWPodTest.'
+  s.summary          = 'WYWPodTest随便玩玩'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -19,6 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
+随便玩玩，我也不会玩儿，能好好玩儿么？？
                        DESC
 
   s.homepage         = 'https://github.com/PaulWyw/WYWPodTest'
